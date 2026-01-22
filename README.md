@@ -1,2 +1,0 @@
-# spotifybackgroungtonotion
-To my notion
